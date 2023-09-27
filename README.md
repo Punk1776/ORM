@@ -1,14 +1,16 @@
 # E-commerce Website Back End
 ## Table of Contents
-. Description
-. Technologies Used
-. Installation
-. Configuration
-. Usage
-. API Routes
-. Testing
-. Contributing
-. License
+- [Description](#Description)
+- [Technologies Used](#Technologies-Used)
+- [Getting Started](#Installation)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Configuration](#Configuration)
+- [Usage](#usage)
+  - [API Routes](#API-Routes)
+  - [Testing](#Testing)
+- [Contributing](#Contributing)
+- [License](#license)
 
 ## Description
 This is the back end for an e-commerce website that utilizes the latest technologies to help your company compete effectively in the online retail space. It provides a robust Express.js API integrated with a MySQL database using Sequelize for data modeling and interaction.
@@ -52,6 +54,7 @@ After configuring the database, you can start the application by right clicking 
 ### npm start
 
 This will start the server and sync Sequelize models with the MySQL database.
+[Untitled_ Sep 27 2023 3_04 PM.webm](https://github.com/Punk1776/ORM/assets/135387049/19cc9593-7571-4f16-ae43-4feeb0723d78)
 
 
 ## API Routes
